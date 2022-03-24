@@ -1,1 +1,3 @@
 /gist/venv
+/project/venv
+db.sqlite3
