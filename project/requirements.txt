@@ -1,0 +1,4 @@
+pytest = "*"
+djangorestframework = "*"
+django = "*"
+black = "*"
