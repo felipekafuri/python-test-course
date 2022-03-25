@@ -1,6 +1,6 @@
 from django.db import models
-from django.utils.timezone import now
 from django.db.models import URLField
+from django.utils.timezone import now
 
 
 class Company(models.Model):

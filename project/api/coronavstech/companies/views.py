@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from rest_framework import ModelViewSet, PageNumberPagination
+from rest_framework.viewsets import ModelViewSet
 
 from .models import Company
 
